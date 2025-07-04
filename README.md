@@ -29,7 +29,7 @@ Total package weight: 0.8999999999999999kg
 ** Checkout Receipt **
 2x Cheese = 200.0
 1x Biscuits = 150.0
-----------------------
+
 Subtotal: 350.0
 Shipping: 30.0
 Total: 380.0
