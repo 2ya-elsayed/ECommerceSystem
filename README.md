@@ -24,13 +24,13 @@ A console-based OOP-driven e-commerce system built in Java. Supports product typ
 ** Shipment Notice **
 - Cheese (0.2kg)
 - Biscuits (0.7kg)
-Total package weight: 0.8999999999999999kg
+- Total package weight: 0.8999999999999999kg
 
 ** Checkout Receipt **
-2x Cheese = 200.0
-1x Biscuits = 150.0
+- 2x Cheese = 200.0
+- 1x Biscuits = 150.0
 
-Subtotal: 350.0
-Shipping: 30.0
-Total: 380.0
+- Subtotal: 350.0
+- Shipping: 30.0
+- Total: 380.0
 
