@@ -1,6 +1,6 @@
 package model;
 
-import base.Product;
+import model.base.Product;
 
 public class ScratchCard extends Product {
     public ScratchCard(String name, double price, int quantity) {

@@ -1,9 +1,9 @@
 package service.impl;
 
-import base.Shippable;
-import entity.Cart;
-import entity.CartItem;
-import entity.Customer;
+import model.base.Shippable;
+import model.Cart;
+import model.CartItem;
+import model.Customer;
 import exception.EmptyCartException;
 import exception.BalanceException;
 import service.CheckoutService;

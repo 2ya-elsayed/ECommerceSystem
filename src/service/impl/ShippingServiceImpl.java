@@ -1,6 +1,6 @@
 package service.impl;
 
-import base.Shippable;
+import model.base.Shippable;
 import service.ShippingService;
 
 import java.util.List;

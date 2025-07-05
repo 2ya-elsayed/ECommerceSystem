@@ -1,6 +1,6 @@
-package entity;
+package model;
 
-import base.Product;
+import model.base.Product;
 import exception.ProductException;
 
 public class CartItem {

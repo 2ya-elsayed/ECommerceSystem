@@ -1,8 +1,6 @@
-package base;
+package model.base;
 
 import exception.ProductException;
-
-import static exception.ProductException.invalidPriceOrQuantity;
 
 public class Product {
     private String name;

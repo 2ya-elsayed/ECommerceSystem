@@ -1,7 +1,7 @@
 package service;
 
-import entity.Cart;
-import entity.Customer;
+import model.Cart;
+import model.Customer;
 
 public interface CheckoutService {
     void checkout(Customer customer, Cart cart);

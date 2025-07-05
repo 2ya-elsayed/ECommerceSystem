@@ -1,6 +1,6 @@
-import base.Product;
-import entity.Cart;
-import entity.Customer;
+import model.base.Product;
+import model.Cart;
+import model.Customer;
 import exception.BalanceException;
 import exception.EmptyCartException;
 import exception.ProductException;

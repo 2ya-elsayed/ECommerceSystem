@@ -1,6 +1,6 @@
 package model;
 
-import base.ShippableProduct;
+import model.base.ShippableProduct;
 
 public class Tv extends ShippableProduct {
 

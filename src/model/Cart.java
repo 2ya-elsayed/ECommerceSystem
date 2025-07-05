@@ -1,7 +1,7 @@
-package entity;
+package model;
 
-import base.Expirable;
-import base.Product;
+import model.base.Expirable;
+import model.base.Product;
 import exception.ProductException;
 
 import java.util.ArrayList;

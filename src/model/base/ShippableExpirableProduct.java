@@ -1,4 +1,4 @@
-package base;
+package model.base;
 
 import exception.ProductException;
 

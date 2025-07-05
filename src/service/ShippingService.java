@@ -1,6 +1,6 @@
 package service;
 
-import base.Shippable;
+import model.base.Shippable;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
 package model;
 
-import base.ShippableExpirableProduct;
+import model.base.ShippableExpirableProduct;
 
 import java.time.LocalDate;
 
